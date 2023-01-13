@@ -1,4 +1,4 @@
-<h1 align="center"><br>Portfólio - Alexandre Santos!</h1>💻
+<h1 align="center"><br>Portfólio - Alexandre Santos!💻</h1>
 
 <!-- 
 -->
